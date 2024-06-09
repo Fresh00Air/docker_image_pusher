@@ -1,4 +1,2 @@
 alpine
 kylemanna/openvpn
-letscertbot
-certbot/certbot
