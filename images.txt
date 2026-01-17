@@ -1,1 +1,10 @@
-breakstring/gpt-sovits:latest
+busybox:latest
+langgenius/dify-api:1.11.4
+langgenius/dify-web:1.11.4
+mysql:8.0
+langgenius/dify-plugin-daemon:0.5.2-local
+oceanbase/oceanbase-ce:4.3.5-lts
+oceanbase/seekdb:latest
+langgenius/qdrant:v1.8.3
+containers.intersystems.com/intersystems/iris-community:2025.3
+milvusdb/milvus:v2.6.3
